@@ -27,7 +27,7 @@ A **vintage-style photo booth** app built using **React**, inspired by retro aes
 
 ## 🎬 Demo GIF
 
-![PhotoBooth Demo](./assets/demo.gif)
+![PhotoBooth Demo](./demo.gif)
 
 
 ## 🚀 Installation & Run Locally
