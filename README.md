@@ -1,6 +1,6 @@
 # 📸 PhotoBooth 🎞️
 
-A **vintage-style photo booth** app built using **React**, inspired by retro aesthetics and packed with 💖 emojis, beautiful background, and minimal one-page design.
+A photo booth app built using **React**,   packed with 💖, beautiful background, and minimal one-page design.
 
 🔗 **Live Demo**: [https://photo-booth-roan.vercel.app](https://photo-booth-roan.vercel.app)
 
